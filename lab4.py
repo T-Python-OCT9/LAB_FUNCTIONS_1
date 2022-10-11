@@ -6,6 +6,6 @@ def fun(x : int):
             y = y + " " + str(i)
         print(y)
         x = x - 1
+print(fun.__doc__)
 fun(5)
 
-print(fun(5).__doc__)
