@@ -7,3 +7,5 @@ def fun(x : int):
         print(y)
         x = x - 1
 fun(5)
+
+print(fun(5).__doc__)
