@@ -17,7 +17,7 @@ def pattrens_m1(Num : int) :
             
             
 pattrens_m1 (10)
-print(pattrens_m1)
+print(pattrens_m1.__doc__)
 
 
     
